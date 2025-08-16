@@ -1,2 +1,1 @@
-# Multicollinearity-Detection-Remedy
-Detection and treatment of multicollinearity in regression models.
+## **This repo includes notebook that illustrates techniques for detecting multicollinearity in regression models and explores remedies such as Variance inflation factor (VIF) analysis and Recursive feature elimination (RFE).**  
